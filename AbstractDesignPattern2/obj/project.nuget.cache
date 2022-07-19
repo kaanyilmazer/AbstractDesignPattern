@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YfVcnEksZWlYjrRGDTYfjcapDiXLeWncxNUudZA4DmbpOCQaJzdVzlSKv0Y1e9eUoCwJz14NXC1OCknafyR+Dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sude_\\source\\repos\\AbstractDesignPattern2\\AbstractDesignPattern2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sude_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
